@@ -14,6 +14,8 @@ public class SongInfo{
             songs.add(new Songs ("Still Fly", "Big Tymers", 2));
             songs.add(new Songs ("Winter Time", "Steve Miller Band", 1));
             songs.add(new Songs ("Just To See You Smile", "Tim McGraw", 10));
+            songs.add(new Songs ("Balance is Restored", "Final Fantasy", 6));
+            songs.add(new Songs ("Somersault", "Zimbabwe Jones", 9));
             return songs;
         }
 }
